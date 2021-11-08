@@ -80,3 +80,13 @@ int main()
     
     en.data_change();
 }
+
+/*
+o/p
+3
+12
+string_concatenate: hibye
+string_concatenate in function_overridding: hibye
+abstraction: 50 200
+encap: 6
+*/
